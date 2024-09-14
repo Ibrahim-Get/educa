@@ -1,0 +1,18 @@
+.nav-box-shadow {
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.15);
+}
+.grid-3-col {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+}
+.card-bg {
+    background-color: #f9f9ff;
+}
+.card-box-shadow {
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    box-shadow: 0px 20px 40px 0 rgb(11 2 55 / 8%);
+}
+.card-bg {
+    background-color: #f7f6fa;
+}
